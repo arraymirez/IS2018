@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\23909c73469537f3ccc487899b47d47f09cc89b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_cf404bd46c748f345d07db2060d173c79eece8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\23739558ab1f1d16378c1e3535d7059287b5792b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_4a350dbd35adf61f60e40c5a0cf02bda4d461409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_b55bd7a31e9f10b4363f1d77d3120e149f80889c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\4d2c3ba667fc098a2816ab4e63dc80a6540f63f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_0992913d0c69aa2f0acaff015f03735b4e54521b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_5abc0970c070666de2bc82f044dce9d8fe44931e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\730b36bf10edb45654d7c10cb6e8144a6b85efc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_0c093073298078bc91996d298b26d112e8f648b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\18aea67d97cead6821eb2e9ff32e57478c646b0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_234a6aebbe9e957f2be4b2ddf088caae9f75d62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_4e9ed2f5d799da7b2262b84e72c5f7a8dacfc170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\5b9ca04cf3a32c62a241ad70249ab2f8bfc1f672\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_0414be3029a0d1f178f0265939c8463052420580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\e542d0acc40d545dca0d82073869c5c581f00476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_adcaba4a21dc37f3678ce6db0c2882862aee934d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d705bea4459137b327d2713e8b590c933ca2eebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_56ad6b2cd27e5a6ae0519c62d3b6452270b84155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_d10e059a980d01a417b9cf7599c5e068fd659f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\8da9135e014d813906c610cf7eace7acf0411eae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_727fc570dab23362e3b8564e80f3f2d95dba34ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\95d0946615989a16ace08e359e481d00d3fd1d02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_5f6b7416427e8580e084aba4f43291aae7e0d67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adan_.adan_optiplex\.android\build-cache\bff8ca7f70583cd9d539e682eba61b27634a34e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\git\IS\IS2018-Dev\WorkNow\app\build\intermediates\pre-dexed\debug\classes_5e793892c7241ae899df26f33df724c5ae2ac55f.jar" />
+    </item>
+
+</items>

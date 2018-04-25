@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:12:5-42:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\bff8ca7f70583cd9d539e682eba61b27634a34e8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\730b36bf10edb45654d7c10cb6e8144a6b85efc6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adan_.adan_optiplex\.android\build-cache\5b9ca04cf3a32c62a241ad70249ab2f8bfc1f672\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\4d2c3ba667fc098a2816ab4e63dc80a6540f63f2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\e542d0acc40d545dca0d82073869c5c581f00476\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23909c73469537f3ccc487899b47d47f09cc89b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23739558ab1f1d16378c1e3535d7059287b5792b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\18aea67d97cead6821eb2e9ff32e57478c646b0c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\95d0946615989a16ace08e359e481d00d3fd1d02\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\8da9135e014d813906c610cf7eace7acf0411eae\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:18:9-40
+activity#apha.wn.worknow.HomeScreen
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:19:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:35:9-37:55
+	android:value
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:36:13-58
+activity#apha.wn.worknow.MapsActivity
+ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:39:9-41:68
+	android:label
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml:40:13-41
+uses-sdk
+INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\bff8ca7f70583cd9d539e682eba61b27634a34e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\730b36bf10edb45654d7c10cb6e8144a6b85efc6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\adan_.adan_optiplex\.android\build-cache\5b9ca04cf3a32c62a241ad70249ab2f8bfc1f672\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\4d2c3ba667fc098a2816ab4e63dc80a6540f63f2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\e542d0acc40d545dca0d82073869c5c581f00476\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23909c73469537f3ccc487899b47d47f09cc89b8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23739558ab1f1d16378c1e3535d7059287b5792b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\18aea67d97cead6821eb2e9ff32e57478c646b0c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\95d0946615989a16ace08e359e481d00d3fd1d02\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\8da9135e014d813906c610cf7eace7acf0411eae\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\IS\IS2018-Dev\WorkNow\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\bff8ca7f70583cd9d539e682eba61b27634a34e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\730b36bf10edb45654d7c10cb6e8144a6b85efc6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\e542d0acc40d545dca0d82073869c5c581f00476\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23909c73469537f3ccc487899b47d47f09cc89b8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\23739558ab1f1d16378c1e3535d7059287b5792b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\18aea67d97cead6821eb2e9ff32e57478c646b0c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\95d0946615989a16ace08e359e481d00d3fd1d02\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\8da9135e014d813906c610cf7eace7acf0411eae\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\adan_.adan_optiplex\.android\build-cache\522c368296781c72134888bedf18225233160ad0\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\d66cf7d8621ed06de103a7ad62e8571425dfe3b2\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\82be8af40c3e39ec9442fc161c4370cb4ddbe58d\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\adan_.adan_optiplex\.android\build-cache\b2daa763bdd35073e8c620459a84532b2e51a4e7\output\AndroidManifest.xml:20:20-65
